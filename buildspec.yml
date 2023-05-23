@@ -73,7 +73,7 @@ reports:
       - location
       - location
     base-directory: location
-    discard-paths: no | yes
+    discard-paths: yes 
     file-format: report-format
 artifacts:
   files:
